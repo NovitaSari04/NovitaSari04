@@ -1,6 +1,11 @@
 ### Hi there! I'm Novita 👋
 
-- 🔭 I’m currently working on ...
+
+- 🔭 Currently a Data Engineer Awardee at IYKRA Data Fellowship Program 2020
+
+- 👯 I’m looking to collaborate on ...
+
+- 🌱 Currently reading  ...
 <!--
 **NovitaSari04/NovitaSari04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
