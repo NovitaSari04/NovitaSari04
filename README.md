@@ -1,17 +1,20 @@
 ### Hi there! I'm Novita 👋
 
 
-- 🔭 Currently a Data Engineer Awardee at IYKRA Data Fellowship Program 2020
+- Currently a Data Engineer Awardee at IYKRA Data Fellowship Program 2020
 
-- 👯 I’m looking to collaborate on ...
+- Currently reading Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
 
-- 🌱 Currently reading  ...
+- Currently learning SQL for Business Analysts track at DataCamp
+
+- Best way to reach me is via LinkedIn
+
 <!--
 **NovitaSari04/NovitaSari04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 🔭 👯
 
 - 👯 I’m looking to collaborate on ...
 
