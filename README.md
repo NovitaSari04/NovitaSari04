@@ -1,16 +1,12 @@
 ### Hi there! I'm Novita 👋
 
-
-My most frequently used emojis are 💃 ✨ 😭
-
-Byeeee
 - Currently a Data Engineer Awardee at IYKRA Data Fellowship Program 2020
 
 - Currently reading Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
 
 - Currently learning SQL for Business Analysts track at DataCamp
 
-- Best way to reach me is via LinkedIn
+- Best way to reach me is via [LinkedIn](https://www.linkedin.com/in/novita-sari-73a310111/)
 
 <!--
 **NovitaSari04/NovitaSari04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
