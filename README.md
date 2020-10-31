@@ -1,6 +1,9 @@
 ### Hi there! I'm Novita 👋
 
 
+My most frequently used emojis are 💃 ✨ 😭
+
+Byeeee
 - Currently a Data Engineer Awardee at IYKRA Data Fellowship Program 2020
 
 - Currently reading Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic
