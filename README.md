@@ -4,7 +4,7 @@
 
 - Currently reading **Storytelling with Data: A Data Visualization Guide for Business Professionals** by Cole Nussbaumer Knaflic
 
-- Currently learning **SQL for Business Analysts track** at DataCamp
+- Currently learning **Data Analyst with Python track** at DataCamp
 
 - Best way to reach me is via [LinkedIn](https://www.linkedin.com/in/novita-sari-73a310111/)
 
