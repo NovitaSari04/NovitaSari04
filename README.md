@@ -1,12 +1,8 @@
 ### Hi there! I'm Novita 👋
 
-- Currently a Data Engineer Awardee at IYKRA Data Fellowship Program 2020
+- 🌱 I’m currently learning Data Engineering in DigitalSkola
 
-- Currently reading **Storytelling with Data: A Data Visualization Guide for Business Professionals** by Cole Nussbaumer Knaflic
-
-- Currently learning **Data Analyst with Python track** at DataCamp
-
-- Best way to reach me is via [LinkedIn](https://www.linkedin.com/in/novita-sari-73a310111/)
+- 💬 Best way to reach me is via [LinkedIn](https://www.linkedin.com/in/novita-sari-73a310111/)
 
 <!--
 **NovitaSari04/NovitaSari04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
