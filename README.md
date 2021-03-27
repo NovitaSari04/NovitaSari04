@@ -1,6 +1,6 @@
 ### Hi there! I'm Novita 👋
 
-- 🌱 I’m currently learning Data Engineering in DigitalSkola
+- 🌱 I’m currently learning Data Engineering at DigitalSkola
 
 - 💬 Best way to reach me is via [LinkedIn](https://www.linkedin.com/in/novita-sari-73a310111/)
 
